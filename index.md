@@ -13,7 +13,7 @@ Note:
 
 
 More?
-Visit our latest project: [bits-feed.org](bits-feed.org)
+Visit our latest project: [bits-feed.org](https://bits-feed.org)
 
 
 For any further queries, contact:
