@@ -1,6 +1,6 @@
 ## Recruitment Details
 
-Our orientation session will be conducted at 5PM on 8th November, 2020.
+Our orientation session will be conducted at 5PM on 8th November, 2020. (Google meet link: https://meet.google.com/kcm-jraa-fsx)
 
 Mindturner link: [http://csa-recruitment.southeastasia.cloudapp.azure.com:5000/](http://csa-recruitment.southeastasia.cloudapp.azure.com:5000/)
 (make sure to use http here)      
@@ -16,4 +16,6 @@ More?
 Visit our latest project: [bits-feed.org](bits-feed.org)
 
 
-Contact Chinmay (8827058088) regarding any doubts in the contest. 
+For any further queries, contact:
+Chinmay Shah (88270-58088)
+Gautam Bhambhani (90533-44009)
