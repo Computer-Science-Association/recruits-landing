@@ -19,6 +19,8 @@ Visit our latest project: [bits-feed.org](https://bits-feed.org)
 For any further queries, contact:
 Chinmay Shah (88270-58088)
 Gautam Bhambhani (90533-44009)
+email us at: csa@pilani.bits-pilani.ac.in
+Message us on facebook: [csa.bits](https://www.facebook.com/csa.bits)
 
 ### FAQ
 
@@ -37,3 +39,4 @@ Yes, just remember your credentials. You can start, leave and rejoin anytime in 
 #### I am stuck, can you help me out?
 
 We'll be releasing answers and hints to each stage at different points in time, starting with the orientation session.
+
