@@ -19,3 +19,17 @@ Visit our latest project: [bits-feed.org](https://bits-feed.org)
 For any further queries, contact:
 Chinmay Shah (88270-58088)
 Gautam Bhambhani (90533-44009)
+
+### FAQ
+
+#### Are there any prerequisites?
+
+None, apart from an interest in CS. You might need to google a few things out at some stages to figure out what to do, but nothing too complicated.
+
+#### Can I leave and rejoin later?
+
+Yes, just remember your credentials. You can start, leave and rejoin anytime in the 72 hours. The event is designed to be much shorter than 72 hours. The longer duration has been kept to allow everyone to participate at whatever time works for them.
+
+#### I am stuck, can you help me out?
+
+We'll be releasing answers and hints to each stage at different points in time, starting with the orientation session.
