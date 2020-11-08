@@ -42,3 +42,37 @@ Yes, just remember your credentials. You can start, leave and rejoin anytime in 
 
 We'll be releasing answers and hints to each stage at different points in time, starting with the orientation session.
 
+### [Spoiler Alert]
+## Hints:
+#### Stage 1:
+Q.1 [Hint] Read the Cipher backwards.
+
+Q.2 [Hint] Count vowels in each word
+
+Q.3 [Hint] Read it like A dog, B cat... Then use the conversion A = 1, B = 2...
+
+Q.4 [Hint] Try all the combinations. Not an intuitive question, try for every letter.
+
+#### Stage 2:
+Q.1 [Hint] Google how to ping an IP address. 
+
+Q.2 [Hint] A number system is being followed and letters map into digits. 
+
+Q.3 [Hint] A one-to-one mappting of each digit/symbol with each digit. Search ASCII if still stuck!
+
+## Answers:
+#### Stage 1:
+Q.1 [Answer] prepare yourself to win
+
+Q.2 [Answer] 150
+
+Q.3 [Answer] damnyou
+
+Q.4 [Answer] adp
+
+#### Stage 2:
+Q.1 [Answer] 117.220.175.231
+
+Q.2 [Answer] 89
+
+Q.3 [Answer] :')
