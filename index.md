@@ -26,6 +26,10 @@ Gautam Bhambhani (90533-44009)
 
 None, apart from an interest in CS. You might need to google a few things out at some stages to figure out what to do, but nothing too complicated.
 
+#### The contest has already started, am I at a disadvantage compared to others?
+
+No, you are not at any disadvantage. The event is designed to be much shorter than 72 hours. The longer duration has been kept to allow everyone to participate at whatever time works for them.
+
 #### Can I leave and rejoin later?
 
 Yes, just remember your credentials. You can start, leave and rejoin anytime in the 72 hours. The event is designed to be much shorter than 72 hours. The longer duration has been kept to allow everyone to participate at whatever time works for them.
