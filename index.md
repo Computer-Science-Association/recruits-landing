@@ -11,6 +11,7 @@ Note:
 - Give authentic phone number and BTIS email, as we will contact you through those only.
 - Contest will end at 22:00 on 10/11/2000.
 - In case you don't have your BITS email yet, use f20203XXX@pilani.bits-pilani.ac.in (where XXX is any 3 digit number) to sign up. We will contact you using your phone number in that case.
+- We'll be adding stages and giving answers and hints to previous stages, as time passes. 
 
 
 More?
