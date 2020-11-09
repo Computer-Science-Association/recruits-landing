@@ -1,6 +1,6 @@
 ## Recruitment Details
 
-Our orientation session will be conducted at 5PM on 8th November, 2020. (Google meet link: https://meet.google.com/kcm-jraa-fsx)
+Our orientation session was conducted at 5PM on 8th November, 2020. In case you missed it, contact us for the slides.
 
 Mindturner link: [http://csa-recruitment.southeastasia.cloudapp.azure.com:5000/](http://csa-recruitment.southeastasia.cloudapp.azure.com:5000/)
 (make sure to use http here)      
@@ -12,6 +12,8 @@ Note:
 - Contest will end at 22:00 on 10/11/2000.
 - In case you don't have your BITS email yet, use f20203XXX@pilani.bits-pilani.ac.in (where XXX is any 3 digit number) to sign up. We will contact you using your phone number in that case.
 - We'll be adding stages and giving answers and hints to previous stages, as time passes. 
+
+Warning: A number of cases of cheating have come to our attention. Discussion with other contestants is grounds for immediate disqualification. The test is open internet, and we feel that should be enough to make your way through all levels. In case you feel you have cheated and wish to still be considered, please refer the Regret Clause at the bottom of this page.
 
 ## [Update]
 
@@ -81,3 +83,7 @@ Q.1 [Answer] 117.220.175.231
 Q.2 [Answer] 89
 
 Q.3 [Answer] :')
+
+## Regret Clause
+
+In case you have cheated on the event by discussion of undisclosed answers with other contestants, you will be disqualified. A number of such cases have come to our attention. In case you feel you should still be considered, you can email us at csa+regret@pilani.bits-pilani.ac.in with the title REGRET CLAUSE within 24 hours of cheating. Note that we will not ask you to snitch on your batchmates.
