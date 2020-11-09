@@ -67,6 +67,9 @@ Q.2 [Hint] A number system is being followed and letters map into digits.
 
 Q.3 [Hint] A one-to-one mappting of each digit/symbol with each digit. Search ASCII if still stuck!
 
+#### Stage 3:
+Q.1 and Q.2 [Hint] Google how to use Inspect Element.
+
 ## Answers:
 #### Stage 1:
 Q.1 [Answer] prepare yourself to win
@@ -83,6 +86,8 @@ Q.1 [Answer] 117.220.175.231
 Q.2 [Answer] 89
 
 Q.3 [Answer] :')
+
+
 
 ## Regret Clause
 
