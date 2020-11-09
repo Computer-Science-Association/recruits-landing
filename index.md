@@ -15,7 +15,9 @@ Note:
 
 ## [Update]
 
-Seeing the overwhelming response and since so many people have completed the stage 5, we are working on **Adding a new Stage**. For this, there'll be a downtime from 12:00 pm (09/11/2020) for a few minutes (sorry for the inconvenience). Hope you enjoy it!
+Seeing the overwhelming response and since so many people have completed the stage 5, we have **Added a new Stage**. Hope you enjoy it! 
+
+Will we add more stages in the future? Who's to say no!
 
 More?
 Visit our latest project: [bits-feed.org](https://bits-feed.org)
