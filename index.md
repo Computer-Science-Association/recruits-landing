@@ -13,6 +13,9 @@ Note:
 - In case you don't have your BITS email yet, use f20203XXX@pilani.bits-pilani.ac.in (where XXX is any 3 digit number) to sign up. We will contact you using your phone number in that case.
 - We'll be adding stages and giving answers and hints to previous stages, as time passes. 
 
+## [Update]
+
+Seeing the overwhelming response and since so many people have completed the stage 5, we are working on **Adding a new Stage**. For this, there'll be a downtime from 12:00 pm (09/11/2020) for a few minutes (sorry for the inconvenience). Hope you enjoy it!
 
 More?
 Visit our latest project: [bits-feed.org](https://bits-feed.org)
