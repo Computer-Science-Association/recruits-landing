@@ -70,6 +70,9 @@ Q.3 [Hint] A one-to-one mappting of each digit/symbol with each digit. Search AS
 #### Stage 3:
 Q.1 and Q.2 [Hint] Google how to use Inspect Element.
 
+#### Stage 4:
+Q.1: [Hint] It's not a white background. It's an image, download it, open it, ponder over it!
+
 ## Answers:
 #### Stage 1:
 Q.1 [Answer] prepare yourself to win
@@ -87,6 +90,8 @@ Q.2 [Answer] 89
 
 Q.3 [Answer] :')
 
+### Note Regarding Hints:
+We know you are excited to continue to the next rounds. But as it is a recruitment test, we will not be able to give more hints. We will be uploading the last solution before the contest ends at 10:00 pm today, depending on how many people clear stage 3. After that, all the hints and solutions will be displayed here by tomorrow morning. 
 
 
 ## Regret Clause
