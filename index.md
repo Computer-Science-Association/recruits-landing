@@ -17,9 +17,7 @@ Warning: A number of cases of cheating have come to our attention. Discussion wi
 
 ## [Update]
 
-Seeing the overwhelming response and since so many people have completed the stage 5, we have **Added a new Stage**. Hope you enjoy it! 
-
-Will we add more stages in the future? Who's to say no!
+We have now concluded our event and the first leg of our recruitment procedure. We will work on the results and inform the selected ones shortly. You can head over to the answers section for the answers. It was a nice encounter with you all, hope you enjoyed it!!!
 
 More?
 Visit our latest project: [bits-feed.org](https://bits-feed.org)
@@ -50,29 +48,6 @@ Yes, just remember your credentials. You can start, leave and rejoin anytime in 
 We'll be releasing answers and hints to each stage at different points in time, starting with the orientation session.
 
 ### [Spoiler Alert]
-## Hints:
-#### Stage 1:
-Q.1 [Hint] Read the Cipher backwards.
-
-Q.2 [Hint] Count vowels in each word
-
-Q.3 [Hint] Read it like A dog, B cat... Then use the conversion A = 1, B = 2...
-
-Q.4 [Hint] Try all the combinations. Not an intuitive question, try for every letter.
-
-#### Stage 2:
-Q.1 [Hint] Google how to ping an IP address. 
-
-Q.2 [Hint] A number system is being followed and letters map into digits. 
-
-Q.3 [Hint] A one-to-one mappting of each digit/symbol with each digit. Search ASCII if still stuck!
-
-#### Stage 3:
-Q.1 and Q.2 [Hint] Google how to use Inspect Element.
-
-#### Stage 4:
-Q.1: [Hint] It's not a white background. It's an image, download it, open it, ponder over it!
-
 ## Answers:
 #### Stage 1:
 Q.1 [Answer] prepare yourself to win
@@ -84,11 +59,23 @@ Q.3 [Answer] damnyou
 Q.4 [Answer] adp
 
 #### Stage 2:
-Q.1 [Answer] 117.220.175.231
+Q.1 [Answer] 117.220.175.231 (Ping the web host www.bits-pilani.ac.in in your terminal. The IP address you get there is the answer.)
 
-Q.2 [Answer] 89
+Q.2 [Answer] 89 (This is a pental number system where D=4,E=3,N=2. Hence END=3*25+2*5+4*1=89)
 
-Q.3 [Answer] :')
+Q.3 [Answer] :') (This is a one-to-one mapping where each digit/symbol is mapped to the corresponding digit in the RHS. After that the combination of digits is used and converted to the characters according to suitable ASCII codes.)
+
+#### Stage 3:
+Q.1 and Q.2: [Answer] (You need to inspect element any of the options and change their HTML tag and make the value of attribute "value" to "2" and "4" respectively for each question.)
+
+#### Stage 4:
+Q.1 [Answer] cglite (It is actually an SVG image which appears to be the white background. Download the image, and open it in a text editor. Apart from the first instance of "white", change all instances to "black" and then open the image in browser/image viewer. It has transformed to a QR code! Scan it!)
+
+#### Stage 5:
+Q.1 [Answer] carnicobar (obtain all the values of the binary number I3I2I1I0, I3 being the Most Significant bit, for which Z evaluates to true. These values are hexadecimal A, B and C. Out of all combinations, CAB is the code for the airport name 'Carnicobar'.)
+
+#### Stage 6:
+Q.1 [Answer] whentheredstarts (As in stage 4, download the image and open with text editor, preferably notepad. Scroll down to the end. You'll find the line written as "Try AES", copy the part after that. Go to an online AES decoder and paste it there. The secret key is "noob". 
 
 ### Note Regarding Hints:
 We know you are excited to continue to the next rounds. But as it is a recruitment test, we will not be able to give more hints. We will be uploading the last solution before the contest ends at 10:00 pm today, depending on how many people clear stage 3. After that, all the hints and solutions will be displayed here by tomorrow morning. 
