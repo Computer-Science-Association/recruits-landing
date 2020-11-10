@@ -75,11 +75,7 @@ Q.1 [Answer] cglite (It is actually an SVG image which appears to be the white b
 Q.1 [Answer] carnicobar (obtain all the values of the binary number I3I2I1I0, I3 being the Most Significant bit, for which Z evaluates to true. These values are hexadecimal A, B and C. Out of all combinations, CAB is the code for the airport name 'Carnicobar'.)
 
 #### Stage 6:
-Q.1 [Answer] whentheredstarts (As in stage 4, download the image and open with text editor, preferably notepad. Scroll down to the end. You'll find the line written as "Try AES", copy the part after that. Go to an online AES decoder and paste it there. The secret key is "noob". 
-
-### Note Regarding Hints:
-We know you are excited to continue to the next rounds. But as it is a recruitment test, we will not be able to give more hints. We will be uploading the last solution before the contest ends at 10:00 pm today, depending on how many people clear stage 3. After that, all the hints and solutions will be displayed here by tomorrow morning. 
-
+Q.1 [Answer] whentheredstarts (As in stage 4, download the image and open with text editor, preferably notepad. Scroll down to the end. You'll find the line written as "Try AES", copy the part after that. Go to an online AES decoder and paste it there. The secret key is "noob". )
 
 ## Regret Clause
 
