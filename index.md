@@ -37,7 +37,6 @@ We have now concluded our event and the first leg of our recruitment procedure. 
 | varun      | 6             |
 | Atish      | 6             |
 | ckapoor7   | 6             |
-| Admin      | 6             |
 | dipsi      | 6             |
 | Harsh      | 6             |
 | mohitdmak  | 6             |
@@ -59,7 +58,6 @@ We have now concluded our event and the first leg of our recruitment procedure. 
 | SUPRERTH   | 5             |
 | Prolaxic   | 5             |
 | KaustabC   | 5             |
-| F20190032  | 5             |
 | Jash123    | 5             |
 | Aryan2323  | 4             |
 | deVICe     | 4             |
