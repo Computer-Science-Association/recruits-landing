@@ -19,6 +19,68 @@ Warning: A number of cases of cheating have come to our attention. Discussion wi
 
 We have now concluded our event and the first leg of our recruitment procedure. We will work on the results and inform the selected ones shortly. You can head over to the answers section for the answers. It was a nice encounter with you all, hope you enjoyed it!!!
 
+## Congratulations:
+##### We congratulate all of you for peforming really well in MindTurner. But as decided, we have to select a few and move ahead with the recruitments with them. Here is the list of selected students:
+
+| username   | stage cleared |
+|------------|---------------|
+| Shaz001    | 6             |
+| brobat     | 6             |
+| tanaypatni | 6             |
+| anand      | 6             |
+| Karan_151  | 6             |
+| Yatin      | 6             |
+| Sanskar    | 6             |
+| rohan      | 6             |
+| sar123     | 6             |
+| ShirishK   | 6             |
+| varun      | 6             |
+| Atish      | 6             |
+| ckapoor7   | 6             |
+| Admin      | 6             |
+| dipsi      | 6             |
+| Harsh      | 6             |
+| mohitdmak  | 6             |
+| Aniket     | 6             |
+| 06xus0     | 6             |
+| SlimShady  | 6             |
+| Deeppandya | 6             |
+| abhirath24 | 6             |
+| SSBhatt    | 6             |
+| ssvaditya  | 6             |
+| Nischay    | 6             |
+| nidhish27  | 6             |
+| Constant   | 6             |
+| Risheet    | 5             |
+| shreyas_12 | 5             |
+| Madhav     | 5             |
+| roboy      | 5             |
+| Ydjdb      | 5             |
+| SUPRERTH   | 5             |
+| Prolaxic   | 5             |
+| KaustabC   | 5             |
+| F20190032  | 5             |
+| Jash123    | 5             |
+| Aryan2323  | 4             |
+| deVICe     | 4             |
+| Aryaman    | 4             |
+| Vishwa11   | 4             |
+| Irvit      | 4             |
+| jaysheel   | 4             |
+| newrex     | 4             |
+| dakshjun   | 4             |
+| parth10    | 4             |
+| Jeet Kumar | 4             |
+| PratyushG  | 4             |
+| Devyanshu  | 3             |
+| ersatz     | 3             |
+| Anish_aak  | 3             |
+| asahay     | 3             |
+| kushalk123 | 3             |
+| Vibudh     | 3             |
+
+#### Note: If you had entered an invalid or someone else's contact number in the event registration, please contact Chinmay or Gautam for changing it. 
+
 More?
 Visit our latest project: [bits-feed.org](https://bits-feed.org)
 
